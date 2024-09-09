@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ophickens.github.io/sitemap.html.gz
+Sitemap: https://ophickens.github.io/app/sitemap.html.gz
+Sitemap: https://ophickens.github.io/assets/sitemap.html.gz
+Sitemap: https://ophickens.github.io/css/sitemap.html.gz
+Sitemap: https://ophickens.github.io/includes/sitemap.html.gz
+Sitemap: https://ophickens.github.io/item/sitemap.html.gz
+Sitemap: https://ophickens.github.io/src/sitemap.html.gz
